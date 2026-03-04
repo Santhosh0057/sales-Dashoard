@@ -1,71 +1,102 @@
-📊 Project Title
+📊 Sales Performance Dashboard – Excel Analytics Project
+📌 Project Title
 
-Sales Performance Analysis & Interactive Dashboard
+Sales Analytics Dashboard – Revenue, Orders & Product Performance (Excel)
 
 📖 Problem Statement
 
-The company wants to analyze its sales performance across different regions, products, and time periods to identify revenue trends, top-performing products, and areas of low profitability. The goal is to use data analysis to support better business decisions and improve overall sales strategy.
+Businesses require a centralized reporting system to monitor revenue, order volume, product pricing, and customer purchasing behavior. The objective of this project is to design an interactive Excel dashboard that provides clear insights into sales performance, product trends, and cart behavior to support data-driven decision-making.
 
 📊 Dataset Information
 
-Dataset Type: Retail Sales Data
+Dataset Type: Retail Sales Dataset
 
-Data Includes:
+Total Orders: 1,200
 
-Order Date
+Total Revenue: ₹12,64,762
 
-Region
+Key Columns:
 
-Product Category
+Order ID
 
-Sales Amount
+Product (Chair, Desk, Laptop, Printer, Phone, Tablet, etc.)
 
-Profit
+Unit Price
 
-Quantity Sold
+Quantity
 
-Total Records: 10,000+ rows
+Items in Cart
 
-Format: CSV / Excel
+Customer Source (Google, Email, Referral, etc.)
+
+Data Format: Excel (.xlsx)
+
+Data Cleaning: Performed using Excel formulas and structured tables
 
 🛠 Tools Used
 
-Excel – Data Cleaning, Pivot Tables
+Microsoft Excel
 
-SQL – Data Querying, Aggregations, Joins
+Pivot Tables
 
-Power BI – Dashboard Development, Data Modeling, DAX
+Pivot Charts
 
-Python (Pandas, Matplotlib) – Data Cleaning & Exploratory Data Analysis (EDA)
+Slicers
+
+Data Validation
+
+Conditional Formatting
+
+Excel Formulas (SUM, COUNT, AVERAGE, etc.)
+
+Interactive Dashboard Design
 
 📈 Key Insights
 
-📌 Region A generated the highest revenue but lower profit margins.
+📌 Total Revenue generated: ₹12.6 Lakhs
 
-📌 Product Category "Electronics" contributed 40% of total sales.
+📌 Total Orders processed: 1,200
 
-📌 Sales peak during Q4 due to seasonal demand.
+📌 Average Selling Price: ₹356
 
-📌 Certain products show high sales but low profitability.
+📌 Chairs and Laptops show strong order frequency.
+
+📌 Certain products have higher unit price fluctuations.
+
+📌 Cart analysis shows multiple-item purchases increasing revenue contribution.
+
+📌 Customer acquisition sources (Google, Email, Referral) impact order distribution.
 
 📷 Dashboard Screenshots
 
-Sales Overview Dashboard
+![Sales Dashboard](images/sales_dashboard.png)
+Dashboard Components:
 
-Regional Performance Chart
-
-Monthly Sales Trend
-
-Profit Analysis
+✔ KPI Cards (Total Revenue, Total Orders, Average Price)
+✔ Unit Price Analysis (Bar Chart)
+✔ Order Distribution (Pie Chart)
+✔ Product Performance Trend (Line Chart)
+✔ Item Cart Analysis (Bar Chart)
+✔ Interactive Filters (Order ID, Unit Price, Items in Cart)
 
 🚀 Business Impact
 
-Helped identify low-performing regions for improvement strategies.
+Enabled real-time tracking of sales KPIs.
 
-Improved decision-making through KPI tracking.
+Helped identify high-performing products.
 
-Enabled management to focus on high-margin products.
+Improved pricing analysis and revenue planning.
 
-Supported data-driven sales forecasting.
+Supported marketing strategy through customer source insights.
 
-🔑Data Analysis Sales Dashboard Power BI SQL Excel Python EDA Data Visualization Business Intelligence KPI Analysis
+Enhanced business reporting efficiency using an interactive Excel dashboard.
+
+🔑 Project Highlights
+
+Excel Dashboard Sales Analysis Data Visualization
+Pivot Tables Business Intelligence KPI Reporting
+Revenue Analysis Order Analysis Interactive Excel Dashboard
+
+📌 Conclusion
+
+This project demonstrates strong expertise in Excel-based data analysis, dashboard creation, KPI tracking, and business reporting. The interactive dashboard transforms raw sales data into meaningful insights that assist in strategic sales and revenue optimization.
