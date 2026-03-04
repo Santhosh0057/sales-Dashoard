@@ -69,7 +69,7 @@ Interactive Dashboard Design
 
 📷 Dashboard Screenshots
 
-![Sales Dashboard](images/sales_dashboard.png)
+Screenshot 2026-03-02 070434.png
 Dashboard Components:
 
 ✔ KPI Cards (Total Revenue, Total Orders, Average Price)
